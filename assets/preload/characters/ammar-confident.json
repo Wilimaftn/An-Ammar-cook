@@ -4,75 +4,75 @@
 			"loop": false,
 			"offsets": [
 				0,
-				13
+				0
 			],
 			"anim": "idle",
 			"fps": 24,
-			"name": "Hacker_Idle",
+			"name": "Ammar Idle",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				75,
-				-23
+				21,
+				-60
 			],
 			"anim": "singLEFT",
 			"fps": 24,
-			"name": "Hacker_Left",
+			"name": "Ammar Left",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				57,
-				-66
+				-82,
+				-60
 			],
 			"anim": "singDOWN",
 			"fps": 24,
-			"name": "Hacker_Down",
+			"name": "Ammar Down",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				3,
-				-11
+				-73,
+				-21
 			],
 			"anim": "singUP",
 			"fps": 24,
-			"name": "Hacker_Up",
+			"name": "Ammar Up",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				-15,
-				-40
+				-88,
+				-59
 			],
 			"anim": "singRIGHT",
 			"fps": 24,
-			"name": "Hacker_Right",
+			"name": "Ammar Right",
 			"indices": []
 		}
 	],
 	"no_antialiasing": true,
-	"image": "characters/Hacker",
+	"image": "characters/Ammar-Confident",
 	"position": [
-		-10,
-		250
+		-170,
+		190
 	],
-	"healthicon": "hacker",
-	"flip_x": false,
+	"healthicon": "ammar",
+	"flip_x": true,
 	"healthbar_colors": [
-		252,
+		1,
+		255,
+		1
+	],
+	"camera_position": [
 		0,
 		0
 	],
-	"camera_position": [
-		-40,
-		100
-	],
-	"sing_duration": 6,
+	"sing_duration": 6.1,
 	"scale": 1
 }
