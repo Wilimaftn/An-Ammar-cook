@@ -1,0 +1,3 @@
+<vbox>
+    <button id="myButton" text="Click me"/>
+</vbox>
