@@ -1,0 +1,76 @@
+{
+	"song": {
+		"events": [
+			[
+				21136.3636363636,
+				[
+					[
+						"Play Animation",
+						"scream",
+						"dad"
+					]
+				]
+			],
+			[
+				30272.7272727273,
+				[
+					[
+						"Play Animation",
+						"glitch",
+						"dad"
+					]
+				]
+			],
+			[
+				39000,
+				[
+					[
+						"Play Animation",
+						"glitch",
+						"dad"
+					]
+				]
+			],
+			[
+				64772.7272727272,
+				[
+					[
+						"Play Animation",
+						"scream",
+						"dad"
+					]
+				]
+			],
+			[
+				73909.0909090908,
+				[
+					[
+						"Play Animation",
+						"glitch",
+						"dad"
+					]
+				]
+			],
+			[
+				82636.3636363635,
+				[
+					[
+						"Play Animation",
+						"glitch",
+						"dad"
+					]
+				]
+			],
+			[
+				91363.6363636363,
+				[
+					[
+						"Play Animation",
+						"glitch",
+						"dad"
+					]
+				]
+			]
+		]
+	}
+}
